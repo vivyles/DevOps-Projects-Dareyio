@@ -30,6 +30,7 @@ After installing php, i used this command php -v to check the version installed.
 # # # #step4-creating a v.host for my web server
 for this project, I created a directory called projectlamp in the /var/www/html directory, and then I assigned ownership to the current system user.
 ![F3FDAD64-E039-4454-B470-3A24AC2C0D79_1_105_c](https://user-images.githubusercontent.com/80499748/112829666-497d7000-9046-11eb-875a-b6eb318b9f38.jpeg)
+I then created a new config file in the sites-available dir(i used vim).With this setup, I was able to enable the web server to server the projectlamp using /var/www/html/projectlamp as its web root dir. I then enabled a new virtual host using the a2ensite command, disabled the default website that shows the apache page, and then i reloaded apache.
 
 
 
