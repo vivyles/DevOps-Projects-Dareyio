@@ -10,3 +10,6 @@ downloading and installing apache(refer to the read me file to understand what t
 # # # #step2
 use sudo systemctl status apache2 to verify that apache is indeed running.
 ![BB10268F-3E66-4B0A-856D-700DD1480C40_1_105_c](https://user-images.githubusercontent.com/80499748/112824849-e557ad80-903f-11eb-91b4-e4da7a0b2d8b.jpeg)
+
+# # # # #step3
+Before the web server can recieve any traffic, tcp port 80 needs to be opened(http runs on port 80, while https(secured) run on 443), i already added a rule on my vm to allow ssh on port 22.
