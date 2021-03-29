@@ -28,7 +28,8 @@ Now, I successfully installed the third component of the LAMP stack; the last is
 After installing php, i used this command php -v to check the version installed. Now that I have successfully installed the LAMP stack, the following dteps and images shows how i test my setup. Here, I used apache virtual host(running more than one website on a single vm, can be ip-based or name based.)
 
 # # # #step4-creating a v.host for my web server
-for this project, I created a directory called projectlamp in the /var/www/html directory
+for this project, I created a directory called projectlamp in the /var/www/html directory, and then I assigned ownership to the current system user.
+![F3FDAD64-E039-4454-B470-3A24AC2C0D79_1_105_c](https://user-images.githubusercontent.com/80499748/112829666-497d7000-9046-11eb-875a-b6eb318b9f38.jpeg)
 
 
 
