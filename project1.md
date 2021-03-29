@@ -40,6 +40,10 @@ Next, I created an index.html file in the /var/www/projectlamp directory
 To confirm, I used the ip add on my browser, and got this:
 ![apache1](https://user-images.githubusercontent.com/80499748/112832066-a75f8700-9049-11eb-83cf-01fbd5d4e8da.PNG)
 
+# # # #step5-Enabling php on my website
+I changed the default setting on apache by deleting the index.html page, so that the landing page of my web server will be index.php
+
+
 
 
 
