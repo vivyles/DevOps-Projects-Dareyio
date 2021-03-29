@@ -19,4 +19,6 @@ Now, i have successfully configured and installed the first two component of the
 # # # #step4-mysql
 mysql will help to store and manage date for our web server's use.
 ![55006D7C-A207-412C-BC8B-4A94257A9020_1_105_c](https://user-images.githubusercontent.com/80499748/112827242-ec33ef80-9042-11eb-9857-31a22f01e6c7.jpeg)
+after installing mysql server, i used the mysql_secure_installation to runa security script and remove insecure default settings. i confirmed mysql was working by using sudo mysql as shown below:
+
 
