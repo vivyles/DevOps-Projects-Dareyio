@@ -43,6 +43,8 @@ To confirm, I used the ip add on my browser, and got this:
 # # # #step5-Enabling php on my website
 I changed the default setting on apache by deleting the index.html page, so that the landing page of my web server will be index.php
 
+![3676908B-A462-4C69-B571-F6CF9D98D3AB_1_105_c](https://user-images.githubusercontent.com/80499748/112831722-361fd400-9049-11eb-9a1c-c0312b8c4ad3.jpeg)
+
 
 
 
