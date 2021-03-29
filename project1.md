@@ -22,5 +22,6 @@ mysql will help to store and manage date for our web server's use.
 after installing mysql server, i used the mysql_secure_installation to runa security script and remove insecure default settings. i confirmed mysql was working by using sudo mysql as shown below:
 ![DEA66DB8-D57D-4E6A-8C05-7F9FA57A2D08_1_105_c](https://user-images.githubusercontent.com/80499748/112827545-56e52b00-9043-11eb-972e-079297be19fc.jpeg)
 Now, I successfully installed the third component of the LAMP stack; the last is PHP.(code processor)
+![2F26F9D6-13D6-49E3-BCEF-578E3DAF549A_1_105_c](https://user-images.githubusercontent.com/80499748/112827782-a75c8880-9043-11eb-8939-919ceff71e5a.jpeg)
 
 
