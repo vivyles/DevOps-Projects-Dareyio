@@ -38,6 +38,7 @@ Next, I created an index.html file in the /var/www/projectlamp directory
 ![3676908B-A462-4C69-B571-F6CF9D98D3AB_1_105_c](https://user-images.githubusercontent.com/80499748/112831722-361fd400-9049-11eb-9a1c-c0312b8c4ad3.jpeg)
 
 To confirm, I used the ip add on my browser, and got this:
+![apache1](https://user-images.githubusercontent.com/80499748/112832066-a75f8700-9049-11eb-83cf-01fbd5d4e8da.PNG)
 
 
 
