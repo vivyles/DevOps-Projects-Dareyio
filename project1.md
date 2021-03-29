@@ -18,4 +18,5 @@ Before the web server can recieve any traffic, tcp port 80 needs to be opened(ht
 Now, i have successfully configured and installed the first two component of the LAMP stack-linuix, and apache.
 # # # #step4-mysql
 mysql will help to store and manage date for our web server's use.
+![55006D7C-A207-412C-BC8B-4A94257A9020_1_105_c](https://user-images.githubusercontent.com/80499748/112827242-ec33ef80-9042-11eb-9857-31a22f01e6c7.jpeg)
 
