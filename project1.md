@@ -7,7 +7,7 @@ Linux is the operating system, linux is chose because of its open-sourceness and
 downloading and installing apache(refer to the read me file to understand what this is, and how it works), (see screenshot below)
 ![51F31895-4351-4AC1-AD46-E8A2D6E95B08_1_105_c](https://user-images.githubusercontent.com/80499748/112824457-66fb0b80-903f-11eb-80d3-2382ca7cde7b.jpeg)
 
-# # # #1b
+# # # #step1b
 use sudo systemctl status apache2 to verify that apache is indeed running.
 ![BB10268F-3E66-4B0A-856D-700DD1480C40_1_105_c](https://user-images.githubusercontent.com/80499748/112824849-e557ad80-903f-11eb-91b4-e4da7a0b2d8b.jpeg)
 
@@ -26,5 +26,9 @@ Now, I successfully installed the third component of the LAMP stack; the last is
 ![2F26F9D6-13D6-49E3-BCEF-578E3DAF549A_1_105_c](https://user-images.githubusercontent.com/80499748/112827782-a75c8880-9043-11eb-8939-919ceff71e5a.jpeg)
 
 After installing php, i used this command php -v to check the version installed. Now that I have successfully installed the LAMP stack, the following dteps and images shows how i test my setup. Here, I used apache virtual host(running more than one website on a single vm, can be ip-based or name based.)
+
+# # # #step4-creating a v.host for my web server
+for this project, I created a directory called projectlamp in the /var/www/html directory
+
 
 
