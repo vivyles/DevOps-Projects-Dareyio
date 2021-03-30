@@ -28,6 +28,6 @@ After installing my web server and relational db, I installed php which will be 
  After installing php, I added a new directory structure within /var/www for my projectlemp website as the default directory, then i assigned ownership to the curent system user. I then opened a new config file in Nginx's sites-available using nano editor.I then activated my config file by linking it to the nginx's sites-enabled directory so that nginx will use it when next it reloads. Lastly I disabled nginx default host, and created a new index.html for my projectLEMP web root, at the end nginx was reload, and i got the output  as shown below.
  
  
-
+![25582E24-D7D3-4329-9643-F07CADB75FFF_1_105_c](https://user-images.githubusercontent.com/80499748/113035667-4bc7f300-9148-11eb-9e87-efaf966b5177.jpeg)
 
 ![lemp](https://user-images.githubusercontent.com/80499748/113035233-dfe58a80-9147-11eb-8faa-e251003adc0b.PNG)
