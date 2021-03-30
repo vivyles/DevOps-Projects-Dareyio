@@ -17,4 +17,7 @@ Here I installed and secured mysql server, that will store and manage date for m
 
 ![01482302-DAD8-4140-A9BF-B3D179382CBB_1_105_c](https://user-images.githubusercontent.com/80499748/113030632-ac543180-9142-11eb-80f6-0d672067879a.jpeg)
 
+# # # #STEP3- Installing my code processor-PHP
+After installing my web server and relational db, I installed php which will be responsible for processing my code and generating dynamic content for my web server as shown below.
+
 
