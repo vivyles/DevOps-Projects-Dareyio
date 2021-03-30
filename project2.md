@@ -10,5 +10,6 @@ I spinned up an ubuntu ec2 on aws cloud, named it , opened up port 80 and 22 for
 
 Here i updated the linux machine, and installed nginx as shown in the image below, i also confimred that nginx is up and running.
 
+![ED669586-A718-4E65-9865-E68F53DEDEEE_1_105_c](https://user-images.githubusercontent.com/80499748/113030260-44055000-9142-11eb-9a23-a4ff2d67d71d.jpeg)
 
 
