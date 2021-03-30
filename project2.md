@@ -35,3 +35,6 @@ After installing my web server and relational db, I installed php which will be 
 # # #STEP5-Testing PHP with Nginx.
 Here i validated that Nginx can accurately hand .php files to the php processor. First, I created a test php file in my doc root, and confirmed by seeing the php home page from my browser.
 
+
+![lemp1](https://user-images.githubusercontent.com/80499748/113036344-048e3200-9149-11eb-99f0-3dc198cba8bc.PNG)
+
