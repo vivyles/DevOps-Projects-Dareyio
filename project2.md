@@ -15,5 +15,6 @@ Here i updated the linux machine, and installed nginx as shown in the image belo
 # # # #STEP2
 Here I installed and secured mysql server, that will store and manage date for my website as shown below.
 
+![01482302-DAD8-4140-A9BF-B3D179382CBB_1_105_c](https://user-images.githubusercontent.com/80499748/113030632-ac543180-9142-11eb-80f6-0d672067879a.jpeg)
 
 
