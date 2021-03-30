@@ -31,3 +31,7 @@ After installing my web server and relational db, I installed php which will be 
 ![25582E24-D7D3-4329-9643-F07CADB75FFF_1_105_c](https://user-images.githubusercontent.com/80499748/113035667-4bc7f300-9148-11eb-9e87-efaf966b5177.jpeg)
 
 ![lemp](https://user-images.githubusercontent.com/80499748/113035233-dfe58a80-9147-11eb-8faa-e251003adc0b.PNG)
+
+# # #STEP5-Testing PHP with Nginx.
+Here i validated that Nginx can accurately hand .php files to the php processor. First, I created a test php file in my doc root, and confirmed by seeing the php home page from my browser.
+
