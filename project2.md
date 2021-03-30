@@ -38,3 +38,6 @@ Here i validated that Nginx can accurately hand .php files to the php processor.
 
 ![lemp1](https://user-images.githubusercontent.com/80499748/113036344-048e3200-9149-11eb-99f0-3dc198cba8bc.PNG)
 
+# # # #step6-Getting data from mysql with php.
+Here I created a simple db file and configured access to it so that my web server can query data from it and display it. Firstly, I created a database on mysql console using root access, created a user and gave the user full access., and full priviledge over the db created earlier. I confirmed this setup by logging in as the user created above, and tried to view databases, and was able to see the database i created. Then I created a test table, and inserted three rows into it. Lastly, I created a php script that queried mysql for my content. At the end of this implementation, I was able to see the test table i created from my browser/todo-list.php as shown below.
+
