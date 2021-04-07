@@ -27,6 +27,6 @@ b. opened up a custome tcp port 3300 on my ec2, and cd .. to Books and started m
 The output below was obtained.
 
 
-
+![49EFB5F3-177F-4833-A7D4-1CFCB2A87EA2_1_105_c](https://user-images.githubusercontent.com/80499748/113924060-308b6200-979e-11eb-992b-7f0b69c86ae8.jpeg)
 
 
