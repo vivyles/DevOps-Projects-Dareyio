@@ -47,3 +47,7 @@ c. I modified the code in the package.json file to reflect the two dependencies 
 d. I configured  proxy 5000, to use to access the app from the browser. 
 e. inside the todo directory,  I input npm run dev- and got the below output,
 
+![65CDB3AF-DDDC-4B6E-8E26-CBACF1EBE38D_1_105_c](https://user-images.githubusercontent.com/80499748/113916261-a12d8100-9794-11eb-98d4-f93212ca2616.jpeg)
+
+![7CFE56F5-DA2E-4A38-B257-DB9564171DA3_1_105_c](https://user-images.githubusercontent.com/80499748/113916270-a38fdb00-9794-11eb-8425-79b94a9b75c7.jpeg)
+
