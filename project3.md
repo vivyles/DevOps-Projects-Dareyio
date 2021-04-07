@@ -30,6 +30,8 @@ e. in my Todo dir, i created a file named .env, and added the connection string 
 N/B: Using environment variables is more secured than adding the connection strings directly to the index.js file., I started my server(node index.js, and got database connected as shown on the imgae below).
 At this point,i have my backend configured .
 
+![99FF68B5-5C36-4A33-8341-5C8072198542_1_105_c](https://user-images.githubusercontent.com/80499748/113914438-66c2e480-9792-11eb-9dfa-88cd52276650.jpeg)
+
 
 
 
