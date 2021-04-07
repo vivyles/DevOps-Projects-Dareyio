@@ -18,3 +18,19 @@ Next, i installed dotenv module, with this done correctly, i was able to see my 
 ![070E389B-7B65-4DA2-9047-A37CD62AE37A_1_105_c](https://user-images.githubusercontent.com/80499748/113912757-5c9fe680-9790-11eb-8012-bc428826d8a7.jpeg)
 
 ![25062AF3-251C-4EBC-9BC4-8DFA482C9117_1_105_c](https://user-images.githubusercontent.com/80499748/113912748-59a4f600-9790-11eb-9cb3-fe4203580b95.jpeg)
+
+
+# # # #step2- What my Todo application should  do- three basic http action- post, get and delete.(create new task, display list of all tasks, and then delete a completed task.)
+a. I created a routes dir , and created a file called api.js. Since our application is going to fetch data from mongodb, we need to create a model(this is whatmakes it interactive).
+b. for the line in a. above to work, i installed mongoose(npm install mongoose).
+c. created a folder called models, which contains a file called todo.js.
+d. after doing the above steps, i created a cluster on mongodb atlas.
+e. in my Todo dir, i created a file named .env, and added the connection string to access my db in it.
+
+N/B: Using environment variables is more secured than adding the connection strings directly to the index.js file., I started my server(node index.js, and got database connected as shown on the imgae below).
+At this point,i have my backend configured .
+
+
+
+
+
