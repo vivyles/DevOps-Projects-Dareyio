@@ -33,6 +33,10 @@ At this point,i have my backend configured .
 ![99FF68B5-5C36-4A33-8341-5C8072198542_1_105_c](https://user-images.githubusercontent.com/80499748/113914438-66c2e480-9792-11eb-9dfa-88cd52276650.jpeg)
 
 
+# # # #step3- Testing the backend code using Restful API. (here, i used Postman as the API dev client to test my code, as I haven't created the UI yet)
+
+a. after installing and configuring postman, I created a GET and POST request to my API http://3.15.201.71:5000/api/todos as shown below.
+
 
 
 
