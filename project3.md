@@ -40,3 +40,10 @@ a. after installing and configuring postman, I created a GET and POST request to
 ![0F20D757-B012-44CA-B5FA-3151B1BD7C88_1_105_c](https://user-images.githubusercontent.com/80499748/113915386-97574e00-9793-11eb-964c-39b7155e676b.jpeg)
 
 
+# # # #step34- Frontend Creation.
+For the UI in this project, i used the react app.
+a. created react in the Todo dir and installed its dependencies- concurently and nodemon.concurrently(this is used to run one command at the same time), nodemon monitors changes to the server, and restarts the server when change is detected.
+c. I modified the code in the package.json file to reflect the two dependencies installed.
+d. I configured  proxy 5000, to use to access the app from the browser. 
+e. inside the todo directory,  I input npm run dev- and got the below output,
+
