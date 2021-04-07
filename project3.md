@@ -59,4 +59,4 @@ a. There are two stateful components and one stateless component for my Todo app
 b. inside the src folder, I installed axios(a promise based http).
 c. Inorder to view only what is coming from components/Todo and not the default react page, i changed the code in src/app.js, and app.css
 d. From the Todo directory, I ran the dev server(pm run dev) and got the output below.
-
+![FB1ACED8-F78A-47F2-B208-FB7452195918_1_105_c](https://user-images.githubusercontent.com/80499748/113918628-84df1380-9797-11eb-9dcd-fc63690155a1.jpeg)
