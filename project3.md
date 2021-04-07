@@ -17,5 +17,3 @@ Next, i installed dotenv module, with this done correctly, i was able to see my 
 
 ![070E389B-7B65-4DA2-9047-A37CD62AE37A_1_105_c](https://user-images.githubusercontent.com/80499748/113912757-5c9fe680-9790-11eb-8012-bc428826d8a7.jpeg)
 
-![070E389B-7B65-4DA2-9047-A37CD62AE37A_1_105_c](https://user-images.githubusercontent.com/80499748/113912757-5c9fe680-9790-11eb-8012-bc428826d8a7.jpeg)
-
