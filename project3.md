@@ -40,7 +40,8 @@ a. after installing and configuring postman, I created a GET and POST request to
 ![0F20D757-B012-44CA-B5FA-3151B1BD7C88_1_105_c](https://user-images.githubusercontent.com/80499748/113915386-97574e00-9793-11eb-964c-39b7155e676b.jpeg)
 
 
-# # # #step34- Frontend Creation.
+# # # #step4- Frontend Creation.
+
 For the UI in this project, i used the react app.
 a. created react in the Todo dir and installed its dependencies- concurently and nodemon.concurrently(this is used to run one command at the same time), nodemon monitors changes to the server, and restarts the server when change is detected.
 c. I modified the code in the package.json file to reflect the two dependencies installed.
@@ -50,4 +51,12 @@ e. inside the todo directory,  I input npm run dev- and got the below output,
 ![65CDB3AF-DDDC-4B6E-8E26-CBACF1EBE38D_1_105_c](https://user-images.githubusercontent.com/80499748/113916261-a12d8100-9794-11eb-98d4-f93212ca2616.jpeg)
 
 ![7CFE56F5-DA2E-4A38-B257-DB9564171DA3_1_105_c](https://user-images.githubusercontent.com/80499748/113916270-a38fdb00-9794-11eb-8425-79b94a9b75c7.jpeg)
+
+# # # #step5- Creating react Components
+Notice from the image in step 3 above that we are just viewing the React default page, inorder to video my Todo app, we need to create React components.
+
+a. There are two stateful components and one stateless component for my Todo app., from my Todo dir, i created a components folder in cient/src, and created three files in the new folder, and input codes into the files.
+b. inside the src folder, I installed axios(a promise based http).
+c. Inorder to view only what is coming from components/Todo and not the default react page, i changed the code in src/app.js, and app.css
+d. From the Todo directory, I ran the dev server(pm run dev) and got the output below.
 
