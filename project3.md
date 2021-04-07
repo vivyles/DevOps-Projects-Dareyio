@@ -37,6 +37,6 @@ At this point,i have my backend configured .
 
 a. after installing and configuring postman, I created a GET and POST request to my API http://3.15.201.71:5000/api/todos as shown below.
 
-
+![0F20D757-B012-44CA-B5FA-3151B1BD7C88_1_105_c](https://user-images.githubusercontent.com/80499748/113915386-97574e00-9793-11eb-964c-39b7155e676b.jpeg)
 
 
