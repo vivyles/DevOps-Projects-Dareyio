@@ -22,6 +22,7 @@ a) updated ubuntu repository and installed the mysql-client
 b) connected to the database created in the db server from the client server as shown in the image below.
 
 
+<img width="1530" alt="6656BE86-A94E-44E4-B01D-01177D733CF9" src="https://user-images.githubusercontent.com/80499748/114122198-a24dd380-98a4-11eb-9184-5e47ef0c8708.png">
 
 
 
