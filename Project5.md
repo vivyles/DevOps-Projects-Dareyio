@@ -3,7 +3,7 @@
 The goal in this project is to configure a web client and a Database server, create a database and user on the db server and be able to access the database created from the client server.
 In production environment, web server and database server are usually placed close to each other on the LAN for security purposes .
 
-Step1- Setting up the DB server.
+# Step1- Setting up the DB server.
 
 
 a) updated repository , and installed mysql-server, after installation , mysql was enabled.
