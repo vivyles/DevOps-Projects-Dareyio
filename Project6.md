@@ -40,3 +40,11 @@ installed mysql-server and restarted and enabled mysqld.
 
 <img width="1530" alt="3C4BD1D4-BE83-4ABC-966B-9A2BA27423B7" src="https://user-images.githubusercontent.com/80499748/114506748-119a2f00-9be7-11eb-9d87-f697e557278d.png">
 
+
+# # # # step5-configured DB to work with wordpress
+
+here I created a database, and a user, gave the user complete access to the database, and flushed privileges as shown below:
+
+
+
+
