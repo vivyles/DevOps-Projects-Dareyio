@@ -52,6 +52,7 @@ here I created a database, and a user, gave the user complete access to the data
 For the web server to connect to the DB, I installed mysql-client on the web server, then opened tcp port 3306.
 Next, I executed this command, sudo mysql -u <db-user> -p -h <DB-Server-Private-IP-address>. Before this can work, I edited the wp-config.php, and changed Db-namme to the name of the DB created, DB-user, anded the specified password.
   
+  <img width="1530" alt="96283023-F10D-49B5-AF26-949207A33AC6" src="https://user-images.githubusercontent.com/80499748/114508167-eca6bb80-9be8-11eb-9f87-5fd4642d8de8.png">
   
 
 
