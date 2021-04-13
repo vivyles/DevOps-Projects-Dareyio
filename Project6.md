@@ -20,3 +20,20 @@ d. the next step is to format each of the logical volumes, with ext4 filesystem,
 (Note): before mounting the logs lv, its impt to backup the contents of the the logs dir, because when you mount , the original content of the dir gets wiped out,so use the resync utility to backup files in the log dir, and then restore the logs files into the /var/log dir. The last step for the web server config, is to update the /etc/fstab file so that the two mount points will persist after restart. After the daemon was reloaded.
 
 <img width="1530" alt="60579E32-C842-46CA-A0CE-8ADDA75C2029" src="https://user-images.githubusercontent.com/80499748/114501593-2377d400-9bdf-11eb-958a-e559e19dae61.png">
+
+
+
+
+# # # # step 2- preparing the db server.
+
+Just like I did for the web server, I spinned up an ec2 server on aws, created 3 volumes and attached it to the server,then created lv and mounted it to the /db directory(root/dir)
+
+# # # # step3- Db Server Config
+
+1. firstly updated the repository(sum yum update), updated apache and installed php and its dependencies and installed wordpress and copy it to the var/www/html directory.
+2. note: Redhat distro comes with certain security policies unlike ubuntu, so we need to set some policies to allow apache work and also allow traffic via http.
+
+
+# # # # # step 4- Install mysql on the db server 
+installed mysql-server and restarted and enabled mysqld.
+
