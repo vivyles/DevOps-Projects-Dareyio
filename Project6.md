@@ -15,4 +15,6 @@ b. created partition using gdisk, created physical volume using pvcreate command
 
 <img width="1530" alt="07B5963A-B42B-4129-B34D-29802A3E10C8" src="https://user-images.githubusercontent.com/80499748/114501334-a64c5f00-9bde-11eb-8a5e-5991d9bcc882.png">
 
-d. the nest step is to format each of the logical volumes, with ext4 filesystem, 
+<img width="1530" alt="60579E32-C842-46CA-A0CE-8ADDA75C2029" src="https://user-images.githubusercontent.com/80499748/114501593-2377d400-9bdf-11eb-958a-e559e19dae61.png">
+
+d. the next step is to format each of the logical volumes, with ext4 filesystem, 
