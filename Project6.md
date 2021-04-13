@@ -15,7 +15,8 @@ b. created partition using gdisk, created physical volume using pvcreate command
 
 <img width="1530" alt="07B5963A-B42B-4129-B34D-29802A3E10C8" src="https://user-images.githubusercontent.com/80499748/114501334-a64c5f00-9bde-11eb-8a5e-5991d9bcc882.png">
 
-<img width="1530" alt="60579E32-C842-46CA-A0CE-8ADDA75C2029" src="https://user-images.githubusercontent.com/80499748/114501593-2377d400-9bdf-11eb-958a-e559e19dae61.png">
 
 d. the next step is to format each of the logical volumes, with ext4 filesystem, created /var/www/html for website files and /home/recovery /logs for logs data, and lastly mount each of the lv to the corresponding mount point.
 (Note): before mounting the logs lv, its impt to backup the contents of the the logs dir, because when you mount , the original content of the dir gets wiped out,so use the resync utility to backup files in the log dir, and then restore the logs files into the /var/log dir. The last step for the web server config, is to update the /etc/fstab file so that the two mount points will persist after restart. After the daemon was reloaded.
+
+<img width="1530" alt="60579E32-C842-46CA-A0CE-8ADDA75C2029" src="https://user-images.githubusercontent.com/80499748/114501593-2377d400-9bdf-11eb-958a-e559e19dae61.png">
