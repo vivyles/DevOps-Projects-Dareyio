@@ -46,5 +46,7 @@ installed mysql-server and restarted and enabled mysqld.
 here I created a database, and a user, gave the user complete access to the database, and flushed privileges as shown below:
 
 
+<img width="1530" alt="D8B29C94-C484-4755-9CFB-E387F3064216" src="https://user-images.githubusercontent.com/80499748/114507402-ec59f080-9be7-11eb-97ce-96e89b4d6350.png">
+
 
 
