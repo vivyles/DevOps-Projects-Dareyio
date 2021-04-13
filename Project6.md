@@ -48,5 +48,11 @@ here I created a database, and a user, gave the user complete access to the data
 
 <img width="1530" alt="D8B29C94-C484-4755-9CFB-E387F3064216" src="https://user-images.githubusercontent.com/80499748/114507402-ec59f080-9be7-11eb-97ce-96e89b4d6350.png">
 
+# # # # step 6- Configured Wordpress to connect to the remote Database.
+For the web server to connect to the DB, I installed mysql-client on the web server, then opened tcp port 3306.
+Next, I executed this command, sudo mysql -u <db-user> -p -h <DB-Server-Private-IP-address>. Before this can work, I edited the wp-config.php, and changed Db-namme to the name of the DB created, DB-user, anded the specified password.
+  
+  
+
 
 
