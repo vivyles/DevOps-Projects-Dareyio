@@ -37,3 +37,6 @@ Just like I did for the web server, I spinned up an ec2 server on aws, created 3
 # # # # # step 4- Install mysql on the db server 
 installed mysql-server and restarted and enabled mysqld.
 
+
+<img width="1530" alt="3C4BD1D4-BE83-4ABC-966B-9A2BA27423B7" src="https://user-images.githubusercontent.com/80499748/114506748-119a2f00-9be7-11eb-9d87-f697e557278d.png">
+
