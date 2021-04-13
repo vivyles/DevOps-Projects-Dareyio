@@ -1,6 +1,6 @@
 # # Web Solution With WordPress
 
-# # # In this project, I worked with a three-tier architecture , learnt disk partitions, and logical volume createion in linux; and demonstrated installing wordpress on one server and connected it remotely to mysql database on a db server.
+In this project, I worked with a three-tier architecture , learnt disk partitions, and logical volume createion in linux; and demonstrated installing wordpress on one server and connected it remotely to mysql database on a db server.
 
 3 tier-setup;
 - PC as client
